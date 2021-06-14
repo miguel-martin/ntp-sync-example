@@ -3,10 +3,11 @@
 Un ejemplo de sincronización con servidor NTP de la Armada Española (hora.roa.es:123) usando Expresss
 
 Este ejemplo implementa:
-* Un endpoint desde el que obtener la hora (definido en hora.js y disponible en /hora)
-* Un script donde se muestra cómo sacarla y mantenerla actualizada en el front (public/javascripts/getServerTime.js)
+* Un endpoint desde el que obtener la hora (definido en [hora.js](/routes/hora.js) y disponible en `/hora`)
+* Un script donde se muestra cómo sacarla y mantenerla actualizada [en el front](/public/javascripts/getServerTime.js)
 
 ## Instalación
+Clonar el repo:
 
 ```
 npm install
