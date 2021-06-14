@@ -6,6 +6,8 @@ Este ejemplo implementa:
 * Un endpoint desde el que obtener la hora (definido en [hora.js](/routes/hora.js) y disponible en `/hora`)
 * Un script donde se muestra cómo sacarla y mantenerla actualizada [en el front](/public/javascripts/getServerTime.js)
 
+He deployado [una demo en Heroku](https://protected-peak-71108.herokuapp.com)
+
 ## Instalación
 Clonar el repo:
 
