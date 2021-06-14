@@ -8,6 +8,8 @@ Este ejemplo implementa:
 
 He deployado [una demo en Heroku](https://protected-peak-71108.herokuapp.com)
 
+Para hacerlo fino habría que añadir un [WebWorker](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers) o similar, pero ésto se escapa al propósito de este ejemplo.
+
 ## Instalación
 Clonar el repo y después instalar dependencias con:
 
