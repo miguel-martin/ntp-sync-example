@@ -9,7 +9,7 @@ Este ejemplo implementa:
 He deployado [una demo en Heroku](https://protected-peak-71108.herokuapp.com)
 
 ## Instalación
-Clonar el repo:
+Clonar el repo y después instalar dependencias con:
 
 ```
 npm install
